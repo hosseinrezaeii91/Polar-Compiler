@@ -1,5 +1,4 @@
 # Polar-Compiler
-polar Compiler
 To use the Polar Compiler, please run the file polar_compiler.pyc.
 To generate the architecture, please enter the block length (N) and the kernel ordering.
 Please refer to the original paper for more information.
